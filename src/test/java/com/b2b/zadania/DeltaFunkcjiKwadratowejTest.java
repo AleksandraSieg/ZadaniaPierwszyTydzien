@@ -24,4 +24,9 @@ public class DeltaFunkcjiKwadratowejTest {
         assertEquals(4.0, wynik, 0.0);
     }
 
+    @Test
+    public void test4deltaFunkcjiKwadratowej() throws Exception {
+
+    }
+
 }

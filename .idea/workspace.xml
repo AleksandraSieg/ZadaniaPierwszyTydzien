@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a19bb92c-806e-4040-bc87-d590ae5ad097" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,7 +20,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="0">
               <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding />
             </state>
@@ -29,51 +31,70 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PotegiLiczby8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java">
+      <file leaf-file-name="PunktLezacyNaProstej.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            <state relative-caret-position="34">
+              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PunktLezacyNaProstejTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktLezacyNaProstejTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PotegaLiczby4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Odliczanie10Sekund.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Odliczanie10Sekund.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#278#287#0" expanded="true" />
-                <element signature="e#649#657#0" expanded="true" />
+                <element signature="e#273#282#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PotegiLiczby8Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java">
+      <file leaf-file-name="Odliczanie10SekundTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/Odliczanie10SekundTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="737">
+              <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeltaFunkcjiKwadratowej.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java">
+      <file leaf-file-name="PotegaLiczby4Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeltaFunkcjiKwadratowejTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="326">
+              <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -103,8 +124,14 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktLezacyNaProstejTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Odliczanie10Sekund.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/Odliczanie10SekundTest.java" />
       </list>
     </option>
   </component>
@@ -131,9 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,7 +225,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,8 +255,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DeltaFunkcjiKwadratowejTest.test3deltaFunkcjiKwadratowej">
-    <configuration name="DeltaFunkcjiKwadratowejTest.test1deltaFunkcjiKwadratowej" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Odliczanie10SekundTest">
+    <configuration name="Odliczanie10SekundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.b2b.zadania.*" />
@@ -240,82 +267,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.DeltaFunkcjiKwadratowejTest" />
-      <option name="METHOD_NAME" value="test1deltaFunkcjiKwadratowej" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="DeltaFunkcjiKwadratowejTest.test2deltaFunkcjiKwadratowej" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.b2b.zadania.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="ZadaniaPierwszyTydzien" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.DeltaFunkcjiKwadratowejTest" />
-      <option name="METHOD_NAME" value="test2deltaFunkcjiKwadratowej" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="DeltaFunkcjiKwadratowejTest.test3deltaFunkcjiKwadratowej" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.b2b.zadania.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="ZadaniaPierwszyTydzien" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.DeltaFunkcjiKwadratowejTest" />
-      <option name="METHOD_NAME" value="test3deltaFunkcjiKwadratowej" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="PotegiLiczby8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.b2b.zadania.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="ZadaniaPierwszyTydzien" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.PotegiLiczby8Test" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.Odliczanie10SekundTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -329,7 +281,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="PotegiLiczby8Test.test7PotegiLiczby8DrugieRozwiazanie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Odliczanie10SekundTest.odliczanie10Sekund" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.b2b.zadania.*" />
@@ -340,8 +292,83 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.PotegiLiczby8Test" />
-      <option name="METHOD_NAME" value="test7PotegiLiczby8DrugieRozwiazanie" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.Odliczanie10SekundTest" />
+      <option name="METHOD_NAME" value="odliczanie10Sekund" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Odliczanie10SekundTest.odliczanie10SekundTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.b2b.zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ZadaniaPierwszyTydzien" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.b2b.zadania" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.Odliczanie10SekundTest" />
+      <option name="METHOD_NAME" value="odliczanie10SekundTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Odliczanie10SekundTest.odliczanie10SekundTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.b2b.zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ZadaniaPierwszyTydzien" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.b2b.zadania" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.Odliczanie10SekundTest" />
+      <option name="METHOD_NAME" value="odliczanie10SekundTest4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Odliczanie10SekundTest.setOdliczanie10SekundTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.b2b.zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ZadaniaPierwszyTydzien" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.b2b.zadania" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.Odliczanie10SekundTest" />
+      <option name="METHOD_NAME" value="setOdliczanie10SekundTest2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -436,19 +463,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.PotegiLiczby8Test.test7PotegiLiczby8DrugieRozwiazanie" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PotegiLiczby8Test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.DeltaFunkcjiKwadratowejTest.test1deltaFunkcjiKwadratowej" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DeltaFunkcjiKwadratowejTest.test2deltaFunkcjiKwadratowej" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.DeltaFunkcjiKwadratowejTest.test3deltaFunkcjiKwadratowej" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest.odliczanie10Sekund" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest.setOdliczanie10SekundTest2" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest.odliczanie10SekundTest3" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest.odliczanie10SekundTest4" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DeltaFunkcjiKwadratowejTest.test3deltaFunkcjiKwadratowej" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DeltaFunkcjiKwadratowejTest.test2deltaFunkcjiKwadratowej" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DeltaFunkcjiKwadratowejTest.test1deltaFunkcjiKwadratowej" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PotegiLiczby8Test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.PotegiLiczby8Test.test7PotegiLiczby8DrugieRozwiazanie" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest.odliczanie10SekundTest4" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest.odliczanie10SekundTest3" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest.setOdliczanie10SekundTest2" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Odliczanie10SekundTest.odliczanie10Sekund" />
       </list>
     </recent_temporary>
   </component>
@@ -469,35 +496,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DeltaFunkcjiKwadratowejTest_test1deltaFunkcjiKwadratowej - 2018.01.02 at 00h 20m 27s.xml">
-      <configuration name="DeltaFunkcjiKwadratowejTest.test1deltaFunkcjiKwadratowej" configurationId="JUnit" />
+    <history-entry file="Odliczanie10SekundTest - 2018.01.02 at 23h 58m 51s.xml">
+      <configuration name="Odliczanie10SekundTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DeltaFunkcjiKwadratowejTest_test1deltaFunkcjiKwadratowej - 2018.01.02 at 00h 21m 29s.xml">
-      <configuration name="DeltaFunkcjiKwadratowejTest.test1deltaFunkcjiKwadratowej" configurationId="JUnit" />
+    <history-entry file="Odliczanie10SekundTest_odliczanie10Sekund - 2018.01.02 at 23h 47m 43s.xml">
+      <configuration name="Odliczanie10SekundTest.odliczanie10Sekund" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DeltaFunkcjiKwadratowejTest_test1deltaFunkcjiKwadratowej - 2018.01.02 at 00h 21m 56s.xml">
-      <configuration name="DeltaFunkcjiKwadratowejTest.test1deltaFunkcjiKwadratowej" configurationId="JUnit" />
+    <history-entry file="Odliczanie10SekundTest_odliczanie10SekundTest3 - 2018.01.02 at 23h 56m 38s.xml">
+      <configuration name="Odliczanie10SekundTest.odliczanie10SekundTest3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DeltaFunkcjiKwadratowejTest_test2deltaFunkcjiKwadratowej - 2018.01.02 at 00h 23m 11s.xml">
-      <configuration name="DeltaFunkcjiKwadratowejTest.test2deltaFunkcjiKwadratowej" configurationId="JUnit" />
+    <history-entry file="Odliczanie10SekundTest_odliczanie10SekundTest4 - 2018.01.02 at 23h 57m 01s.xml">
+      <configuration name="Odliczanie10SekundTest.odliczanie10SekundTest4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DeltaFunkcjiKwadratowejTest_test3deltaFunkcjiKwadratowej - 2018.01.02 at 00h 24m 01s.xml">
-      <configuration name="DeltaFunkcjiKwadratowejTest.test3deltaFunkcjiKwadratowej" configurationId="JUnit" />
+    <history-entry file="Odliczanie10SekundTest_setOdliczanie10SekundTest2 - 2018.01.02 at 23h 55m 46s.xml">
+      <configuration name="Odliczanie10SekundTest.setOdliczanie10SekundTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PotegiLiczby8Test_test5PotegiLiczby8 - 2017.12.30 at 23h 39m 03s.xml">
-      <configuration name="PotegiLiczby8Test.test5PotegiLiczby8" configurationId="JUnit" />
+    <history-entry file="PotegaLiczby4Test - 2018.01.02 at 23h 09m 57s.xml">
+      <configuration name="PotegaLiczby4Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PotegiLiczby8Test_test6PotegiLiczby8 - 2017.12.30 at 23h 45m 56s.xml">
-      <configuration name="PotegiLiczby8Test.test6PotegiLiczby8" configurationId="JUnit" />
+    <history-entry file="PotegaLiczby4Test_potegaLiczby4Test7 - 2018.01.02 at 23h 06m 15s.xml">
+      <configuration name="PotegaLiczby4Test.potegaLiczby4Test7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PotegiLiczby8Test_test6PotegiLiczby8 - 2017.12.30 at 23h 46m 54s.xml">
-      <configuration name="PotegiLiczby8Test.test6PotegiLiczby8" configurationId="JUnit" />
+    <history-entry file="PotegaLiczby4Test_potegaLiczby4Test8 - 2018.01.02 at 23h 08m 56s.xml">
+      <configuration name="PotegaLiczby4Test.potegaLiczby4Test8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PotegiLiczby8Test_test7PotegiLiczby8 - 2017.12.30 at 23h 54m 53s.xml">
-      <configuration name="PotegiLiczby8Test.test7PotegiLiczby8" configurationId="JUnit" />
+    <history-entry file="PotegaLiczby4Test_potegaLiczby4Test8 - 2018.01.02 at 23h 09m 42s.xml">
+      <configuration name="PotegaLiczby4Test.potegaLiczby4Test8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PotegiLiczby8Test_test7PotegiLiczby8DrugieRozwiazanie - 2017.12.30 at 23h 56m 05s.xml">
-      <configuration name="PotegiLiczby8Test.test7PotegiLiczby8DrugieRozwiazanie" configurationId="JUnit" />
+    <history-entry file="PotegaLiczby4Test_potegaLiczby4Test9 - 2018.01.02 at 23h 10m 34s.xml">
+      <configuration name="PotegaLiczby4Test.potegaLiczby4Test9" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -517,7 +544,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25113463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2549168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -552,16 +579,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -572,36 +591,6 @@
           <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#278#287#0" expanded="true" />
-            <element signature="e#649#657#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#278#287#0" expanded="true" />
-            <element signature="e#649#657#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -626,6 +615,141 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="92" lean-forward="false" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="62" column="1" lean-forward="true" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktLezacyNaProstejTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Odliczanie10Sekund.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#273#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/Odliczanie10SekundTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
           <folding />
         </state>
       </provider>
