@@ -6,7 +6,7 @@ import java.util.List;
 public class PotegiLiczby8 {
 
     /*
-    Wyświetl potęgi liczby 8 mniejsze od 10000(dodaj je do Listy).
+    25. Wyświetl potęgi liczby 8 mniejsze od 10000(dodaj je do Listy).
      */
 
     public List<Integer> potegiLiczby8() {
@@ -28,9 +28,9 @@ public class PotegiLiczby8 {
     public List<Double> potegiLiczby8DrugieRozwiazanie() {
         List<Double> potegi = new ArrayList<Double>();
 
-        for(int i = 0; i<6; i++){
-            double wynik = Math.pow(8,i);
-            if(wynik<10000){
+        for (int i = 0; i < 6; i++) {
+            double wynik = Math.pow(8, i);
+            if (wynik < 10000) {
                 potegi.add(wynik);
             }
         }

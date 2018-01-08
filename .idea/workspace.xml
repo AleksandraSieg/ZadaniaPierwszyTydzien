@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a19bb92c-806e-4040-bc87-d590ae5ad097" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja1.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja2.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PanTuNieStal.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PanTuNieStal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/ParzystaVSNieparzysta.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/ParzystaVSNieparzysta.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Silnia.java" afterPath="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Silnia.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PanTuNieStalTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PanTuNieStalTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java" afterPath="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,103 +28,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MiejscaZeroweFunkcja2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja2.java">
+      <file leaf-file-name="RestFromDivision.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/RestFromDivision.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="221">
+              <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PotegaLiczby4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java">
+      <file leaf-file-name="RestFromDivisionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/RestFromDivisionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            <state relative-caret-position="17">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MiejscaZeroweFunkcja2Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja2Test.java">
+      <file leaf-file-name="Division.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Division.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+            <state relative-caret-position="170">
+              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Silnia.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Silnia.java">
+      <file leaf-file-name="DivisionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DivisionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="83" lean-forward="false" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+            <state relative-caret-position="326">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SilniaTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/SilniaTest.java">
+      <file leaf-file-name="Times10.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Times10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParzystaVSNieparzysta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/ParzystaVSNieparzysta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParzystaVSNieparzystaTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/ParzystaVSNieparzystaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MiejscaZeroweFunkcja1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MiejscaZeroweFunkcja1Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja1Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="13" selection-end-column="43" />
+            <state relative-caret-position="51">
+              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PotegaLiczby4Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java">
+      <file leaf-file-name="Dividers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Dividers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="51" column="3" lean-forward="false" selection-start-line="51" selection-start-column="3" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#304#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DividersNo68.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/DividersNo68.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#267#276#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerOfANumberBetween1000and5000.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PowerOfANumberBetween1000and5000.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#385#394#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerOfANumberSmallerThan1000.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PowerOfANumberSmallerThan1000.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#355#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheBiggestNumberDividedBy3.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheBiggestNumberDividedBy3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -122,8 +148,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -139,26 +165,54 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktLezacyNaProstejTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Odliczanie10Sekund.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/Odliczanie10SekundTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PanTuNieStalTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja1.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja1Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PanTuNieStal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja2Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/SilniaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/ParzystaVSNieparzystaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Silnia.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/ParzystaVSNieparzysta.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/ParzystaVSNieparzystaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PanTuNieStal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktPrzecieciaDwochProstych.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PanTuNieStalTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktPrzecieciaDwochProstychTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DodawanieOdejmowanieMnozenieDzielenieTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/TheSmallestNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Age.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DodawanieOdejmowanieMnozenieDzielenie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheSmallestNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/AgeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PositiveNumberNegativeNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/PositiveNumberNegativeNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheBigestNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheBiggestNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/TheBiggestNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/BiggerNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/BiggerNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheSumOfEveryNumberSmallerThen500.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/TheSumOfEveryNumberSmallerThen500Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/RestFromDivision.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/RestFromDivisionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Division.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/b2b/zadania/DivisionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Times10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/Dividers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/DividersNo68.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PowerOfANumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PowerOfANumberBetween1000and5000.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/PowerOfANumberSmallerThan1000.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheBiggestNumberDividedBy3.java" />
       </list>
     </option>
   </component>
@@ -185,6 +239,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,28 +304,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="b2b" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ZadaniaPierwszyTydzien" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ZadaniaPierwszyTydzien" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="b2b" type="462c0819:PsiDirectoryNode" />
-              <item name="zadania" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zadanie11" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -291,8 +336,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest6">
-    <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DivisionTest.division3And2">
+    <configuration name="DivisionTest.division3And2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.b2b.zadania.*" />
@@ -303,8 +348,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.ParzystaVSNieparzystaTest" />
-      <option name="METHOD_NAME" value="czyParzystaCzyNieparzystaTest2" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.DivisionTest" />
+      <option name="METHOD_NAME" value="division3And2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -317,7 +362,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DivisionTest.division4And0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.b2b.zadania.*" />
@@ -328,8 +373,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.ParzystaVSNieparzystaTest" />
-      <option name="METHOD_NAME" value="czyParzystaCzyNieparzystaTest3" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.DivisionTest" />
+      <option name="METHOD_NAME" value="division4And0" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -342,7 +387,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DivisionTest.division4And2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.b2b.zadania.*" />
@@ -353,8 +398,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.ParzystaVSNieparzystaTest" />
-      <option name="METHOD_NAME" value="czyParzystaCzyNieparzystaTest4" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.DivisionTest" />
+      <option name="METHOD_NAME" value="division4And2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -367,7 +412,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RestFromDivisionTest.notEqualsDevidedBy4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.b2b.zadania.*" />
@@ -378,8 +423,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.ParzystaVSNieparzystaTest" />
-      <option name="METHOD_NAME" value="czyParzystaCzyNieparzystaTest5" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.RestFromDivisionTest" />
+      <option name="METHOD_NAME" value="notEqualsDevidedBy4" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -392,7 +437,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RestFromDivisionTest.restFrom7DividedByMinus0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.b2b.zadania.*" />
@@ -403,8 +448,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.b2b.zadania" />
-      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.ParzystaVSNieparzystaTest" />
-      <option name="METHOD_NAME" value="czyParzystaCzyNieparzystaTest6" />
+      <option name="MAIN_CLASS_NAME" value="com.b2b.zadania.RestFromDivisionTest" />
+      <option name="METHOD_NAME" value="restFrom7DividedByMinus0" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -499,19 +544,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest2" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest4" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest5" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest3" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest6" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.RestFromDivisionTest.restFrom7DividedByMinus0" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RestFromDivisionTest.notEqualsDevidedBy4" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DivisionTest.division4And2" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DivisionTest.division4And0" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DivisionTest.division3And2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest6" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest3" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest5" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest4" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DivisionTest.division3And2" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DivisionTest.division4And0" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DivisionTest.division4And2" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RestFromDivisionTest.notEqualsDevidedBy4" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RestFromDivisionTest.restFrom7DividedByMinus0" />
       </list>
     </recent_temporary>
   </component>
@@ -532,39 +577,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ParzystaVSNieparzystaTest_czyParzystaCzyNieparzystaTest1 - 2018.01.06 at 01h 21m 35s.xml">
-      <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest1" configurationId="JUnit" />
+    <history-entry file="DivisionTest_division3And2 - 2018.01.07 at 23h 56m 10s.xml">
+      <configuration name="DivisionTest.division3And2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParzystaVSNieparzystaTest_czyParzystaCzyNieparzystaTest2 - 2018.01.06 at 01h 22m 13s.xml">
-      <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest2" configurationId="JUnit" />
+    <history-entry file="DivisionTest_division3And2 - 2018.01.07 at 23h 59m 37s.xml">
+      <configuration name="DivisionTest.division3And2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParzystaVSNieparzystaTest_czyParzystaCzyNieparzystaTest2 - 2018.01.06 at 01h 23m 37s.xml">
-      <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest2" configurationId="JUnit" />
+    <history-entry file="DivisionTest_division3And2 - 2018.01.08 at 00h 01m 37s.xml">
+      <configuration name="DivisionTest.division3And2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParzystaVSNieparzystaTest_czyParzystaCzyNieparzystaTest3 - 2018.01.06 at 01h 23m 40s.xml">
-      <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest3" configurationId="JUnit" />
+    <history-entry file="DivisionTest_division3And2 - 2018.01.08 at 00h 01m 59s.xml">
+      <configuration name="DivisionTest.division3And2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParzystaVSNieparzystaTest_czyParzystaCzyNieparzystaTest4 - 2018.01.06 at 01h 23m 05s.xml">
-      <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest4" configurationId="JUnit" />
+    <history-entry file="DivisionTest_division4And0 - 2018.01.07 at 23h 55m 45s.xml">
+      <configuration name="DivisionTest.division4And0" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParzystaVSNieparzystaTest_czyParzystaCzyNieparzystaTest5 - 2018.01.06 at 01h 23m 33s.xml">
-      <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest5" configurationId="JUnit" />
+    <history-entry file="DivisionTest_division4And2 - 2018.01.07 at 23h 54m 32s.xml">
+      <configuration name="DivisionTest.division4And2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParzystaVSNieparzystaTest_czyParzystaCzyNieparzystaTest6 - 2018.01.06 at 01h 24m 17s.xml">
-      <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest6" configurationId="JUnit" />
+    <history-entry file="DivisionTest_division4And2 - 2018.01.07 at 23h 54m 47s.xml">
+      <configuration name="DivisionTest.division4And2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ParzystaVSNieparzystaTest_czyParzystaCzyNieparzystaTest6 - 2018.01.06 at 01h 24m 50s.xml">
-      <configuration name="ParzystaVSNieparzystaTest.czyParzystaCzyNieparzystaTest6" configurationId="JUnit" />
+    <history-entry file="RestFromDivisionTest - 2018.01.07 at 23h 36m 50s.xml">
+      <configuration name="RestFromDivisionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SilniaTest_silniaTest3 - 2018.01.06 at 01h 14m 02s.xml">
-      <configuration name="SilniaTest.silniaTest3" configurationId="JUnit" />
+    <history-entry file="RestFromDivisionTest_notEqualsDevidedBy4 - 2018.01.07 at 23h 38m 55s.xml">
+      <configuration name="RestFromDivisionTest.notEqualsDevidedBy4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SilniaTest_silniaTest5 - 2018.01.06 at 01h 13m 58s.xml">
-      <configuration name="SilniaTest.silniaTest5" configurationId="JUnit" />
+    <history-entry file="RestFromDivisionTest_restFrom7DividedByMinus0 - 2018.01.07 at 23h 37m 42s.xml">
+      <configuration name="RestFromDivisionTest.restFrom7DividedByMinus0" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -574,18 +620,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26626325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27382752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967105" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -599,234 +645,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktLezacyNaProstejTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Odliczanie10Sekund.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#273#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/Odliczanie10SekundTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="51" column="3" lean-forward="false" selection-start-line="51" selection-start-column="3" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PanTuNieStalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PanTuNieStal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#251#0" expanded="true" />
-            <element signature="e#584#592#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktLezacyNaProstejTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Odliczanie10Sekund.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#273#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/Odliczanie10SekundTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -849,27 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="92" lean-forward="false" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -878,147 +680,393 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/DeltaFunkcjiKwadratowej.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PanTuNieStalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PanTuNieStal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#251#0" expanded="true" />
-            <element signature="e#584#592#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/Odliczanie10SekundTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Odliczanie10Sekund.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#273#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktLezacyNaProstejTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="13" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="51" column="3" lean-forward="false" selection-start-line="51" selection-start-column="3" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="68">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="60">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/SilniaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/MiejscaZeroweFunkcja2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="41" column="17" lean-forward="false" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="56">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Odliczanie10Sekund.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PanTuNieStal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/ParzystaVSNieparzysta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktLezacyNaProstej.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Silnia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="83" lean-forward="false" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/ParzystaVSNieparzysta.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegiLiczby8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="115">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PotegaLiczby4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DeltaFunkcjiKwadratowejTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/MiejscaZeroweFunkcja2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/Odliczanie10SekundTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PanTuNieStalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/ParzystaVSNieparzystaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        <state relative-caret-position="145">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegaLiczby4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PotegiLiczby8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktLezacyNaProstejTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/SilniaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PunktPrzecieciaDwochProstychTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PunktPrzecieciaDwochProstych.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#331#339#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/TheSmallestNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="24" column="64" lean-forward="false" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DodawanieOdejmowanieMnozenieDzielenieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/DodawanieOdejmowanieMnozenieDzielenie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/AgeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Age.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PositiveNumberNegativeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/PositiveNumberNegativeNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="55" column="37" lean-forward="false" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheSmallestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheBiggestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/TheBiggestNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/BiggerNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/BiggerNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheSumOfEveryNumberSmallerThen500.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/TheSumOfEveryNumberSmallerThen500Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/RestFromDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/RestFromDivisionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/b2b/zadania/DivisionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Times10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/Dividers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#304#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/DividersNo68.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#267#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PowerOfANumberBetween1000and5000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/PowerOfANumberSmallerThan1000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#355#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/b2b/zadania/TheBiggestNumberDividedBy3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding />
         </state>
       </provider>

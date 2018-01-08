@@ -8,9 +8,9 @@ public class ParzystaVSNieparzysta {
     public String czyParzystaCzyNieparzysta(int liczba) {
         String odpowiedz = "";
 
-        if(liczba%2==0){
+        if (liczba % 2 == 0) {
             odpowiedz = "parzysta";
-        }else if(liczba%2==1){
+        } else if (liczba % 2 == 1) {
             odpowiedz = "nieparzysta";
         }
 

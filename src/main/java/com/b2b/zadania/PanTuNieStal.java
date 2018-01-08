@@ -6,7 +6,7 @@ import java.util.List;
 public class PanTuNieStal {
 
 
-    public List<String> panTuNieStal(String wyrazenie){
+    public List<String> panTuNieStal(String wyrazenie) {
         wyrazenie = "PanTuNieStał";
         List<String> wyrazy = new ArrayList<String>();
 
@@ -19,7 +19,7 @@ public class PanTuNieStal {
         return wyrazy;
     }
 
-    public List<String> maleLitery(List<String> a){
+    public List<String> maleLitery(List<String> a) {
         a = panTuNieStal("PanTuNieStał");
 
         List<String> b = new ArrayList<String>();

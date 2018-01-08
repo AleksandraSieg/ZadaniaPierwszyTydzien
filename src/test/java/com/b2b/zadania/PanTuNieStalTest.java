@@ -20,10 +20,10 @@ public class PanTuNieStalTest {
 
     @Test
     public void maleLiteryTest1() throws Exception {
-       List<String> wynik = panTuNieStal.maleLitery(panTuNieStal.panTuNieStal("PanTuNieStał"));
-       List<String> szukam = Arrays.asList("pan", "tu", "nie", "stał");
+        List<String> wynik = panTuNieStal.maleLitery(panTuNieStal.panTuNieStal("PanTuNieStał"));
+        List<String> szukam = Arrays.asList("pan", "tu", "nie", "stał");
 
-       assertEquals(szukam, wynik);
+        assertEquals(szukam, wynik);
     }
 
 }

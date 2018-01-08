@@ -6,6 +6,7 @@ import static org.junit.Assert.*;
 
 public class DeltaFunkcjiKwadratowejTest {
     DeltaFunkcjiKwadratowej delta = new DeltaFunkcjiKwadratowej();
+
     @Test
     public void test1deltaFunkcjiKwadratowej() throws Exception {
         double wynik = delta.deltaFunkcjiKwadratowej(4.0, 2.0, 8.0);

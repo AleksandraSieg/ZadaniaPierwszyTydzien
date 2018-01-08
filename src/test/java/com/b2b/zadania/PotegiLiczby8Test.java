@@ -64,7 +64,7 @@ public class PotegiLiczby8Test {
 
         int dlugosc = zadanie.potegiLiczby8().size();
         int dlugoscOczekiwana = 5;
-        if(dlugosc == dlugoscOczekiwana){
+        if (dlugosc == dlugoscOczekiwana) {
             wynik = true;
         }
 
