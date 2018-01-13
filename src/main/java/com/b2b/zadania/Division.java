@@ -1,6 +1,8 @@
 package com.b2b.zadania;
 
 public class Division {
+
+
     public String division(double no1, double no2) {
         String statement = "";
         if (no2 != 0) {

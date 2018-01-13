@@ -10,6 +10,7 @@ public class PowerOfANumberSmallerThan1000 {
     public List<Integer> powerOfANumber(int no) {
         List<Integer> powers = new ArrayList<Integer>();
         int result = 1;
+        powers.add(result);
         while (1000 > result) {
             result = result * no;
             if (result <= 1000) {

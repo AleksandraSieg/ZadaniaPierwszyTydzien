@@ -10,8 +10,10 @@ public class Age {
 
         if (age >= 18) {
             statement = "You are adult:-)";
-        } else {
+        } else if (age >= 0 && age < 18) {
             statement = "You are not adult";
+        } else {
+            statement = "There is no age like this";
         }
 
         return statement;
